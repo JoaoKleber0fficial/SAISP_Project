@@ -15,7 +15,7 @@ O foco é entender como eventos de chuva podem levar a **enxurradas, alagamentos
 ---
 
 ## 🔹 Cidades Foco
-**Região do Rio Tietê**: São Paulo, Mogi das Cruzes, Sorocaba, Lins, Jaú, Rio Claro, Capivari  
+**Região do Rio Tietê**: São Paulo, Sorocaba, Rio Claro, Capivari  
 **Região do Rio Capivari**: Capivari, Sumaré, Valinhos  
 **Região do Rio Pinheiros**: São Paulo (Zona Oeste/Sul)
 
@@ -28,7 +28,7 @@ As colunas selecionadas serão:
 - `PLU (mm)` – precipitação acumulada  
 - `FLU (m)` – nível do rio  
 - `Data/Hora` – alinhamento temporal  
-- `Posto` – identificação da estação/pluviômetro ou fluvidiômetro  
+- `Posto` – identificação do rio/bacia
 
 > Observação: A base completa da SAISP ainda não foi obtida. Por enquanto, as cidades, rios e postos de interesse foram mapeados e selecionados utilizando Atlas Digital de Dasastres no Brasil.
 
@@ -38,8 +38,8 @@ Já disponíveis e serão utilizados para cruzar com os dados da SAISP:
 - `descricao_tipologia` (Enxurradas, Alagamentos, Inundações…)  
 - `nome_municipio`  
 - `data_evento`  
-- `DH_MORTOS`, `DH_FERIDOS`, `DH_ENFERMOS`, `DH_DESABRIGADOS`  
-- `PEPL` e `PEPR` – impacto econômico público e privado  
+- `DH_MORTOS`, `DH_FERIDOS`, `DH_ENFERMOS`, `DH_DESABRIGADOS` - impacto social caso as hípoteses, após as hipóteses serem provadas.
+- `PEPL` e `PEPR` – impacto econômico público e privado, após as hipóteses serem provadas.
 
 ---
 
